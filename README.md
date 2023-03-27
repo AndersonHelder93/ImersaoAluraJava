@@ -1,18 +1,7 @@
-## Getting Started
+# Avaliação do IMDB ⭐⭐⭐⭐⭐
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+* Foi utilizada uma [API do IMDB](https://imdb-api.com/) pegando todos os 250 melhores filmes, utilizando a importação do java.net para fazer requisições HTTP e axibir uma lista com a classificação por estrelas
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+#### ⇨ Resultado:
+![image](https://user-images.githubusercontent.com/70813272/228013554-dafa82df-3d79-4963-b183-5c7279608f7c.png)
